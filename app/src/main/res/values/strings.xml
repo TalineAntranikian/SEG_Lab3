@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab3SimpleCalculator</string>
+    <string name="textview">Simple Calculator!</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">+</string>
+    <string name="button5">4</string>
+    <string name="button6">5</string>
+    <string name="button7">6</string>
+    <string name="button8">-</string>
+    <string name="button9">7</string>
+    <string name="button10">8</string>
+    <string name="button11">9</string>
+    <string name="button12">/</string>
+    <string name="button13">CE</string>
+    <string name="button14">0</string>
+    <string name="button15">.</string>
+    <string name="button16">*</string>
+    <string name="button17">=</string>
+
+
+</resources>
